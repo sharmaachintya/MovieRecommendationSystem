@@ -7,6 +7,4 @@ A Movie Recommendation systems encompass a class of techniques and algorithms th
    - Content Based Filetring: It makes recommendations by using keywords and attributes assigned to objects in a database. 
    - Collborative Filtering: It uses similarities between users and items simultaneously to provide recommendations.
  
- ## STEP 1 : Import All the Necessary Libraries
  
- ## STEP 2 : 
