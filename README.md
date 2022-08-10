@@ -8,3 +8,4 @@ A Movie Recommendation systems encompass a class of techniques and algorithms th
    - Collborative Filtering: It uses similarities between users and items simultaneously to provide recommendations.
  
  
+ 
